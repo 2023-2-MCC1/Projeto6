@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Thermometer
+  - Trap
+  - Enemy
+  - InvisibleLine
+  - Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2261032021
+    locked: 0
+  - name: Desing
+    uniqueID: 4231534823
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Plataforma
+    uniqueID: 2948458683
+    locked: 0
+  - name: Ui
+    uniqueID: 871826557
+    locked: 0
